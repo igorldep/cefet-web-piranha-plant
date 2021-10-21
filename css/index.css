@@ -1,0 +1,52 @@
+body{
+    margin-right: 10%;
+    margin-left: 10%;
+    text-align: justify;
+    font-family: Arial, sans-serif;
+    font-size: 14;
+}
+
+h1 {
+    color: limegreen;
+    font-size: 28px;
+    font-family: 'Times New Roman', serif;
+}
+
+p {
+    color: black;
+}
+
+u {
+    text-decoration: underline;
+    -webkit-text-decoration-color: lime;
+    text-decoration-color: lime;
+}
+
+blockquote {
+    margin-left: 60px;
+}
+
+#paragrafo-diferente{
+    border: limegreen;
+    border-width: 3px;
+    border-style: solid;
+    padding: 10px 10px 10px 10px;
+    background-image: url(../imagens/fundo.png);
+    background-repeat: no-repeat;
+    background-position: left bottom;
+    background-size: cover;
+}
+
+h2 {
+    color: limegreen;
+    font-size: 22px;
+    font-family: 'Times New Roman', serif;
+}
+
+img {
+    width: 300px;
+    border: 8px solid limegreen;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
